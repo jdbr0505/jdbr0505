@@ -10,11 +10,17 @@
 
 Construyo aplicaciones web progresivas y sistemas de gestión de datos, desde el prototipo hasta el despliegue en producción.
 
+<img src="https://komarev.com/ghpvc/?username=jdbr0505&label=Visitas+al+perfil&color=58a6ff&style=flat-square" alt="visitor badge"/>
+
 </div>
 
 ---
 
 ### 🚀 About Me
+
+<table>
+<tr>
+<td width="70%" valign="middle">
 
 Desarrollador full-stack enfocado en llevar proyectos completos a producción — desde la interfaz hasta la lógica de negocio.
 
@@ -22,6 +28,13 @@ Desarrollador full-stack enfocado en llevar proyectos completos a producción �
 - 🌱 Profundizando en arquitectura de sistemas de gestión y despliegue continuo (Vercel, GitHub Pages).
 - 🧩 Experiencia en sistemas de gestión de datos reales: boletería, tutorías, disciplinas deportivas.
 - 💬 Pregúntame sobre Python, JavaScript o PWAs.
+
+</td>
+<td width="30%" align="center">
+<img src="./assets/about-avatar.svg" width="200" alt="coding illustration"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,6 +75,12 @@ Desarrollador full-stack enfocado en llevar proyectos completos a producción �
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdbr0505&theme=react-dark&hide_border=true"/>
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jdbr0505&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
