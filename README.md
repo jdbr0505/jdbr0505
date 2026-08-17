@@ -94,15 +94,15 @@ Desarrollador full-stack enfocado en llevar proyectos completos a producción �
 | **[RANDTOPIC](https://github.com/jdbr0505/randtopic)** | PWA para entrenar memoria y oratoria mediante temas aleatorios | Python | [🔗 Demo](https://randtopic-brown.vercel.app) |
 | **[IMMUJEL](https://github.com/jdbr0505/IMMUJEL)** | Progressive Web Application | HTML/JS | [🔗 Demo](https://jdbr0505.github.io/IMMUJEL/) |
 | **[Jerseys Store](https://github.com/jdbr0505/Jerseys-Store)** | E-commerce demo de venta de camisetas deportivas | HTML/CSS/JS | [🔗 Demo](https://jdbr0505.github.io/Jerseys-Store/) |
+| **[Mesa Técnica Digital SGC FEVECO](https://github.com/jdbr0505/Mesa-T-cnica-Digital-SGC-FEVECO-)** | Sistema de gestión de datos para la disciplina de Coleo de Toros | JavaScript · Firebase | [🔗 Demo](https://jdbr0505.github.io/Mesa-T-cnica-Digital-SGC-FEVECO-/login.html) |
+| **[Creador de Avatares](https://github.com/jdbr0505/Creador-de-Avatares)** ⭐ | Generador interactivo de avatares personalizados | JavaScript | [🔗 Demo](https://jdbr0505.github.io/Creador-de-Avatares/) |
 
-### Sistemas de gestión
+### Sistemas de escritorio
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **[Mesa Técnica Digital SGC FEVECO](https://github.com/jdbr0505/Mesa-T-cnica-Digital-SGC-FEVECO-)** | Sistema de gestión de datos para la disciplina de Coleo de Toros | JavaScript |
-| **[Topocho Cinema](https://github.com/jdbr0505/Topocho-Cinema)** | Sistema de boletería para cine | VB.NET |
-| **[Sistema de Tutorías](https://github.com/jdbr0505/Sistema-de-Tutorias)** | Gestión de tutorías académicas | Python |
-| **[Creador de Avatares](https://github.com/jdbr0505/Creador-de-Avatares)** ⭐ | Generador interactivo de avatares personalizados | JavaScript |
+| Proyecto | Descripción | Stack | Preview |
+|---|---|---|---|
+| **[Topocho Cinema](https://github.com/jdbr0505/Topocho-Cinema)** | Sistema de boletería para cine | VB.NET · WinForms | [🖼️ Preview](https://github.com/jdbr0505/Topocho-Cinema#readme) |
+| **[Sistema de Tutorías](https://github.com/jdbr0505/Sistema-de-Tutorias)** | Gestión de tutorías académicas | Python · Tkinter | [🖼️ Preview](https://github.com/jdbr0505/Sistema-de-Tutorias#readme) |
 
 ### Fundamentos y práctica académica
 
