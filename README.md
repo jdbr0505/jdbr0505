@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="banner"/>
 
-# Hi 👋, Soy José Daniel
+# Hola 👋, Soy José Daniel
 
 ### Full-Stack Developer
 
